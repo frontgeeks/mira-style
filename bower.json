@@ -1,0 +1,20 @@
+{
+  "name": "mira-style",
+  "version": "0.0.0",
+  "description": "mira-style",
+  "keywords": [
+    "mira"
+  ],
+  "authors": [
+    "dilan.mckey"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".idea"
+  ]
+}
